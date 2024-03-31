@@ -1,0 +1,21 @@
+:root {
+  /* Brand Color */
+  --brand-color: #00dfb0;
+
+  /* Dark Scale */
+  --dark-10: #171717; /* 100% */
+  --dark-20: #212121; /* 70% */
+  --dark-30: #333333; /* 40% */
+  --dark-40: #828282; /* 20% */
+  --dark-50: #f9f9f9; /* 10% */
+
+  /* Color System */
+  --suport-01: #2962ff; /* Message */
+  --suport-02: #0bb07b; /* Success */
+  --suport-03: #ffce52; /* Warning */
+  --suport-04: #f03f3f; /* Error */
+  --suport-05: #e0e0e0; /* Information */
+
+  /* Typography */
+  --font-family: 'DM Sans', sans-serif;
+}
