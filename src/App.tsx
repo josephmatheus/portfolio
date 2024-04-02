@@ -1,4 +1,5 @@
 import { Header } from "./components/Header";
+import { HeroSection } from "./components/HeroBanner";
 import { GlobalStyle } from "./styles/GlobalStyles";
 
 const App = () => {
@@ -6,6 +7,7 @@ const App = () => {
     <>
       <GlobalStyle />
       <Header />
+      <HeroSection />
     </>
   );
 };
