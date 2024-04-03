@@ -2,8 +2,7 @@ import styled from "styled-components";
 import "../../styles/variables.css";
 
 export const Container = styled.section`
-  max-width: 100%;
-  width: 1440px;
+  width: 100%;
   height: 50vh;
   margin: 0 auto;
   display: flex;
@@ -40,6 +39,7 @@ export const DivL = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding-left: 50px;
 
   h2 {
@@ -49,6 +49,7 @@ export const DivL = styled.div`
   }
 
   p {
+    width: 302px;
     font-size: 1.8rem;
     color: var(--dark-40);
     font-weight: 500;
@@ -69,7 +70,7 @@ export const DivL = styled.div`
     align-items: center;
     padding: 8px;
 
-    h2 {
+    h2, p {
       width: 100%;
       text-align: center;
     }
