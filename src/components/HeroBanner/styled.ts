@@ -4,10 +4,14 @@ import "../../styles/variables.css";
 export const Container = styled.section`
   width: 100%;
   height: 50vh;
-  margin: 0 auto;
+  margin: 100px auto 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  @media screen and (max-width: 670px) {
+    margin: 50px auto 0;
+  }
 `;
 
 export const DivR = styled.div`

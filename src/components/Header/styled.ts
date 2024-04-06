@@ -4,11 +4,15 @@ import "../../styles/variables.css"
 export const HeaderContainer = styled.header`
   max-width: 100%;
   width: 1440px;
-  margin: 0 auto;
+  background-color: var(--dark-10);
   padding: 20px 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
 
   h1 {
     font-size: 2.6rem;
