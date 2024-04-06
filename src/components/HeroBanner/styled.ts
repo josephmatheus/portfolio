@@ -23,8 +23,8 @@ export const DivR = styled.div`
 
   @media screen and (max-width: 768px) {
     img {
-      height: 50%;
-      width: 75%;
+      height: 65%;
+      width: 90%;
     }
   }
 
@@ -45,7 +45,7 @@ export const DivL = styled.div`
   h2 {
     font-size: 3.6rem;
     width: 302px;
-    line-height: 48px;
+    line-height: 46px;
   }
 
   p {
@@ -73,6 +73,17 @@ export const DivL = styled.div`
     h2, p {
       width: 100%;
       text-align: center;
+    }
+
+    h2 {
+      font-size: 2.4rem;
+      line-height: 30px;
+    }
+
+    p {
+      font-size: 1.6rem;
+      margin: 8px 0 32px;
+      line-height: 20px;
     }
 
     .buttons {
