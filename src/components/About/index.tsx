@@ -43,8 +43,8 @@ export const AboutSection = () => {
           <div className="icon-container">
             <BsTelephone size={iconsSize} color={iconColor}/>
           </div>
-          <h3>Meu nome</h3>
-          <span>Joseph Matheus</span>
+          <h3>Telefone</h3>
+          <span>(81) 98696-1323</span>
         </li>
       </ul>
     </S.AboutContainer>
