@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Pokédex React",
+      "tecs": "React e Styled Components",
+      "imageUrl": "./src/assets/projects-images/pokedex.png"
+    },
+    {
+      "title": "Portfolio",
+      "tecs": "React, TypeScript e Styled Components",
+      "imageUrl": "./src/assets/projects-images/portfolio.png"
+    },
+    {
+      "title": "Blog Codelândia",
+      "tecs": "React e Styled Components",
+      "imageUrl": "./src/assets/projects-images/blog-codelandia.png"
+    },
+    {
+      "title": "React Notes App",
+      "tecs": "React e CSS Modules",
+      "imageUrl": "./src/assets/projects-images/react-notes.png"
+    },
+    {
+      "title": "Lojinha JMK",
+      "tecs": "HTML, CSS e Bootstrap",
+      "imageUrl": "./src/assets/projects-images/lojinha-jmk.png"
+    },
+    {
+      "title": "Advice Generator App",
+      "tecs": "HTML, CSS e JavaScript",
+      "imageUrl": "./src/assets/projects-images/advice-generator.png"
+    }
+  ]
