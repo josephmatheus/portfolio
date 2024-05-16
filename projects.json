@@ -2,31 +2,31 @@
     {
       "title": "Pokédex React",
       "tecs": "React e Styled Components",
-      "imageUrl": "./public/projects-images/pokedex.png"
+      "imageUrl": "/projects-images/pokedex.png"
     },
     {
       "title": "Portfolio",
       "tecs": "React, TypeScript e Styled Components",
-      "imageUrl": "./public/projects-images/portfolio.png"
+      "imageUrl": "/projects-images/portfolio.png"
     },
     {
       "title": "Blog Codelândia",
       "tecs": "React e Styled Components",
-      "imageUrl": "./public/projects-images/blog-codelandia.png"
+      "imageUrl": "/projects-images/blog-codelandia.png"
     },
     {
       "title": "React Notes App",
       "tecs": "React e CSS Modules",
-      "imageUrl": "./public/projects-images/react-notes.png"
+      "imageUrl": "/projects-images/react-notes.png"
     },
     {
       "title": "Lojinha JMK",
       "tecs": "HTML, CSS e Bootstrap",
-      "imageUrl": "./public/projects-images/lojinha-jmk.png"
+      "imageUrl": "/projects-images/lojinha-jmk.png"
     },
     {
       "title": "Advice Generator App",
       "tecs": "HTML, CSS e JavaScript",
-      "imageUrl": "./public/projects-images/advice-generator.png"
+      "imageUrl": "/projects-images/advice-generator.png"
     }
   ]
