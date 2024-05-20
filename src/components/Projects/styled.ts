@@ -20,4 +20,12 @@ export const ProjectsCardsListsContainer = styled.ul`
     place-items: center;
     grid-template-columns: repeat(3, minmax(395px, 400px));
     row-gap: 32px;
+
+    @media screen and (max-width: 1220px) {
+        grid-template-columns: repeat(2, minmax(395px, 400px));
+    }
+    
+    @media screen and (max-width: 790px) {
+        grid-template-columns: repeat(1, minmax(395px, 400px));
+    }
 `
