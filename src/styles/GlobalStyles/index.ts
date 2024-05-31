@@ -33,6 +33,6 @@ export const GlobalStyle = createGlobalStyle`
 
   .react-icons {
     color: var(--brand-color);
-    font-size: 80px;
+    font-size: 68px;
   }
 `;
