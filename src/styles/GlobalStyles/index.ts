@@ -30,4 +30,9 @@ export const GlobalStyle = createGlobalStyle`
   li {
     list-style: none;
   }
+
+  .react-icons {
+    color: var(--brand-color);
+    font-size: 80px;
+  }
 `;
