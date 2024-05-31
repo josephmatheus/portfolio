@@ -4,7 +4,7 @@ import "../../styles/variables.css";
 export const Container = styled.section`
   width: 100%;
   height: 50vh;
-  margin: 100px auto 0;
+  margin: 100px auto 127px;
   display: flex;
   align-items: center;
   justify-content: space-between;

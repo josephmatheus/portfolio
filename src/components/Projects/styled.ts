@@ -7,6 +7,7 @@ export const Container = styled.section`
     justify-content: center;
     align-items: center;
     gap: 30px;
+    margin: 127px 0;
 
     h2 {
         font-size: 3.2rem;
