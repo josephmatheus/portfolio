@@ -49,7 +49,7 @@ export const AboutContainer = styled.section`
       h3 {
         font-size: 1.8rem;
         color: var(--dark-50);
-        margin: 10px 0 2px;
+        margin: 10px 0 12px;
       }
 
       span {
