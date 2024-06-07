@@ -2,31 +2,43 @@
     {
       "title": "Pokédex React",
       "tecs": "React e Styled Components",
-      "imageUrl": "/projects-images/pokedex.png"
+      "imageUrl": "/projects-images/pokedex.png",
+      "deploy": "https://jm-pokedex-react.vercel.app/",
+      "repository": "https://github.com/josephmatheus/pokedex-react"
     },
     {
       "title": "Portfolio",
       "tecs": "React, TypeScript e Styled Components",
-      "imageUrl": "/projects-images/portfolio.png"
+      "imageUrl": "/projects-images/portfolio.png",
+      "deploy": "https://josephmatheus.vercel.app/",
+      "repository": "https://github.com/josephmatheus/portfolio"
     },
     {
       "title": "Blog Codelândia",
       "tecs": "React e Styled Components",
-      "imageUrl": "/projects-images/blog-codelandia.png"
+      "imageUrl": "/projects-images/blog-codelandia.png",
+      "deploy": "https://desafio-blog-codelandia-jm.vercel.app/",
+      "repository": "https://github.com/josephmatheus/desafio-blog-codelandia"
     },
     {
       "title": "React Notes App",
       "tecs": "React e CSS Modules",
-      "imageUrl": "/projects-images/react-notes.png"
+      "imageUrl": "/projects-images/react-notes.png",
+      "deploy": "https://joseph-notes-app.vercel.app/",
+      "repository": "https://github.com/josephmatheus/react-notes-app"
     },
     {
       "title": "Lojinha JMK",
       "tecs": "HTML, CSS e Bootstrap",
-      "imageUrl": "/projects-images/lojinha-jmk.png"
+      "imageUrl": "/projects-images/lojinha-jmk.png",
+      "deploy": "https://josephmatheus.github.io/descomplica-nubank-atv-pratica-bootstrap/",
+      "repository": "https://github.com/josephmatheus/descomplica-nubank-atv-pratica-bootstrap"
     },
     {
       "title": "Advice Generator App",
       "tecs": "HTML, CSS e JavaScript",
-      "imageUrl": "/projects-images/advice-generator.png"
+      "imageUrl": "/projects-images/advice-generator.png",
+      "deploy": "https://josephmatheus.github.io/advice-generator-app",
+      "repository": "https://github.com/josephmatheus/advice-generator-app"
     }
   ]

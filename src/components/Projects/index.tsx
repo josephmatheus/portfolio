@@ -13,6 +13,8 @@ const ProjectsSection = () => {
               titulo={project.title}
               tecs={project.tecs}
               imageUrl={project.imageUrl}
+              deploy={project.deploy}
+              repository={project.repository}
             />
           );
         })}
