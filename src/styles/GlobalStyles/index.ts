@@ -10,8 +10,13 @@ export const GlobalStyle = createGlobalStyle`
     font-family: var(--font-family);
   }
 
+  :target {
+    scroll-margin-top: 10rem;
+  }
+
   html {
     font-size: 62.5%;
+    scroll-behavior: smooth;
   }
 
   body {
