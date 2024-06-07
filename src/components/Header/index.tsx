@@ -4,7 +4,7 @@ import { HeaderContainer } from "./styled";
 export const Header = () => {
   return (
     <HeaderContainer>
-      <h1>Portfolio</h1>
+      <h1>&lt;JosephMatheus/&gt;</h1>
       <NavMenu />
     </HeaderContainer>
   );
