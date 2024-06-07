@@ -8,7 +8,7 @@ export const AboutSection = () => {
   const iconsSize = 32;
 
   return (
-    <S.AboutContainer>
+    <S.AboutContainer id="about">
       <h2>Sobre mim</h2>
       <p>
         Um apaixonado desenvolvedor front-end atualmente trilhando novos

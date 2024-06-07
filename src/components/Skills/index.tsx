@@ -3,9 +3,8 @@ import * as S from "./styled"
 import * as Si from "react-icons/si";
 
 export const SkillsSection = () => {
-  // const iconSize = 
   return (
-    <S.Container>
+    <S.Container id="skills">
       <h2>Minhas Skills</h2>
       <S.Skills>
         <IconContext.Provider value={{className: "react-icons"}}>

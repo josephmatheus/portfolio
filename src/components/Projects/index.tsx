@@ -4,7 +4,7 @@ import projects from "../../../projects.json";
 
 const ProjectsSection = () => {
   return (
-    <S.Container>
+    <S.Container id="projects">
       <h2>Projetos</h2>
       <S.ProjectsCardsListsContainer>
         {projects.map((project) => {

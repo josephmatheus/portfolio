@@ -13,13 +13,16 @@ const NavMenu = () => {
         </button>
         <menu>
           <li>
-            <a href="#">Sobre mim</a>
+            <a href="#home">Inicio</a>
           </li>
           <li>
-            <a href="#">Projetos</a>
+            <a href="#about">Sobre mim</a>
           </li>
           <li>
-            <a href="#">Minhas Skills</a>
+            <a href="#projects">Projetos</a>
+          </li>
+          <li>
+            <a href="#skills">Minhas Skills</a>
           </li>
         </menu>
       </Nav>
