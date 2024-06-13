@@ -1,5 +1,5 @@
 import * as S from "./styled";
-import HeroImage from "../../assets/hero-image.svg";
+import HeroImage from "../../assets/images/hero-image.svg";
 import { Button } from "../Button";
 
 export const HeroSection = () => {
