@@ -1,6 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-import "../../styles/variables.css"
-
+import "../../styles/variables.css";
 
 export const GlobalStyle = createGlobalStyle`
   * {
@@ -25,6 +24,20 @@ export const GlobalStyle = createGlobalStyle`
     background-color: var(--dark-10);
     color: var(--dark-40);
     overflow-x: hidden;
+
+    &::-webkit-scrollbar {
+      width: 4px;
+    }
+    
+    &::-webkit-scrollbar-track {
+      background: none;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--brand-color);
+      border-radius: 20px;
+      border: 3px solid none;
+    }
   }
   
   a {
